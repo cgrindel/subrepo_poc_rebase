@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:cgrindel/subrepo_poc_upstream.git
+	branch = main
+	commit = 582ecd841ccb486820dc4c57c31118822265f5db
+	parent = f7ef83f750c05c6a56e3fda8b0077af6b4938d5a
+	method = rebase
+	cmdver = 0.4.9
