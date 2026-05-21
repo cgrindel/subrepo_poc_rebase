@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:cgrindel/subrepo_poc_upstream.git
 	branch = main
-	commit = 0483eb52cf62fbeb3bf2f146f73fc84c4fd99c72
-	parent = 33b2c26090d0dbf6668df2d57a8a5f386770d20e
+	commit = 34cd8e4c1e4530bb7e7895c965ee338513a6dd4c
+	parent = f48ecce5feaf7eb6c971eab70c08573835f73a25
 	method = rebase
 	cmdver = 0.4.9
